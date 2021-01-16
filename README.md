@@ -1,6 +1,6 @@
 ### Hi there, I'm dlwnsdud205!👋
 * * *
-### [Tistory Blog](https://dlwnsdud205.tistory.com){:target="_blank"} ☚ click!🐟🐒
+### <a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐟🐒
 
     ☛ Interested in Web Front-End and Back-End 🤓   
 
