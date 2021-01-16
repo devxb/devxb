@@ -1,5 +1,7 @@
 * * * 
-## Tistory Blog <a href = "https://dlwnsdud205.tistory.com"> <img src = "http://img.shields.io/badge/-Tech blog☚🐒🍣-black?style=flat&logo=Blogger&link=https://dlwnsdud205.tistory.com"></a>
+## <a href = "https://dlwnsdud205.com"><span style = "color:#0d1117; background-color:white">Tistory Blog</span></a><span style = "font-size:10px"> ☚ click🐒🍣 !</span>
+
+<a href = "https://dlwnsdud205.tistory.com"> <img src = "http://img.shields.io/badge/-Tech blog☚🐒🍣-black?style=flat&logo=Blogger&link=https://dlwnsdud205.tistory.com"></a>
 
     ☛ Interested in Web Front-End and Back-End 🤓   
    
