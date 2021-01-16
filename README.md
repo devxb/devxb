@@ -1,10 +1,9 @@
 * * * 
- <a href = "https://dlwnsdud205.tistory.com">
- <img src = "http://img.shields.io/badge/-Tech blog☚🐒🍣-black?style=flat&logo=Blogger&link=https://dlwnsdud205.tistory.com"></a>
+## Tistory Blog <a href = "https://dlwnsdud205.tistory.com"> <img src = "http://img.shields.io/badge/-Tech blog☚🐒🍣-black?style=flat&logo=Blogger&link=https://dlwnsdud205.tistory.com"></a>
 
- <img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">  
-
-    ☛ Interested in Web Front-End and Back-End 🤓
+    ☛ Interested in Web Front-End and Back-End 🤓   
+   
+ <img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">   
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
