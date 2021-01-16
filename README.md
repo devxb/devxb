@@ -1,8 +1,7 @@
 * * * 
-<a href = "https://dlwnsdud205.com"><span style = "color:#0d1117; background-color:white">Tistory Blog</span></a><span style = "font-size:10px"> ☚ click🐒🍣 !</span>   
-
-<!-- <a href = "https://dlwnsdud205.tistory.com"> <img src = "http://img.shields.io/badge/-Tech blog☚🐒🍣-black?style=flat&logo=Blogger&link=https://dlwnsdud205.tistory.com"></a> -->
-
+## Hi there, I'm dlwnsdud205!👋 
+### <a href = "https://dlwnsdud205.com">Tistory Blog</a> ☚ click!
+##### 🐒
     ☛ Interested in Web Front-End and Back-End 🤓   
    
  <img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">   
