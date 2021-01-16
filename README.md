@@ -1,7 +1,7 @@
 ### Hi there, I'm dlwnsdud205!👋
 * * *
 ### [Tistory Blog](https://dlwnsdud205.tistory.com){: target="_blank"} ☚ click!🐟🐒
-
+[Tistory Blog](https://dlwnsdud205.tistory.com){: target="_blank"}
     ☛ Interested in Web Front-End and Back-End 🤓   
 
  <img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">   
