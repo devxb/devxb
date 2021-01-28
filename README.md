@@ -4,6 +4,8 @@
 
     ☛ Interested in Web Front-End and Back-End 🤓   
 
+    army 2021.02.01 ~ 2022.07.31
+    
  <img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">   
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) 
