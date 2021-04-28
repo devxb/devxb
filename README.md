@@ -2,7 +2,7 @@
 * * *
 ### <a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐒
 
-    ☛ Interested in Web Front-End and Back-End 🐟   
+    ☛ Interested in Web Back-End 🐟   
 
     swTraining 2021.02.01 ~ 2022.07.31
     
