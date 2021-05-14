@@ -4,7 +4,7 @@
 
     ☛ Interested in Web Back-End 🐟   
 
-    swTraining 2021.02.01 ~ 2022.07.31
+    🌱 2021.02.01 ~ 2022.07.31
     
  <!--<img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">--><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java">
 
