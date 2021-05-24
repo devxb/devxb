@@ -2,8 +2,8 @@
 <div text-align="center">
     <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo"/></a>
 </div>
-<h3></h3>
-### <a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐒
+<h2></h2>
+<a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐒
 
     ☛ Interested in Web Back-End 🐟   
 
