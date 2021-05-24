@@ -1,6 +1,6 @@
 ### Hi there, I'm xb205!👋
 <div text-align="center">
-    <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo"/></a>
+    <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo" align = "center"/></a>
     <br>
 </div>
 
