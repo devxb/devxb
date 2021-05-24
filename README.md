@@ -1,4 +1,7 @@
 ### Hi there, I'm xb205!👋
+<div text-align="center">
+    <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo"/></a>
+</div>
 * * *
 ### <a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐒
 
@@ -9,7 +12,7 @@
  <!--<img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">--><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java">
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) -->
-[![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Perfume-mini)](https://github.com/devxb/CommitCombo)
+[![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo)
 <br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
 * * *
