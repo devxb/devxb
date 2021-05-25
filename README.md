@@ -20,7 +20,7 @@
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) -->
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge_pastel?boj=xb205)](https://solved.ac/profile/xb205)
 
 <h3></h3>
 <!--
