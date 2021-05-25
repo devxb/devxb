@@ -6,7 +6,7 @@
     <br/>
 </div>
 
-[![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Perfume-mini)](https://github.com/devxb/CommitCombo) [![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-calendar)](https://github.com/devxb/CommitCombo)
+[![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo)
 
 <h2></h2>
 <a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ click!🐒
