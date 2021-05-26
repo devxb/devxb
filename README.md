@@ -6,9 +6,9 @@
     <br/>
 </div>
 
-[![Commit Combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo) <br>
-[![commit combo](https://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo) <br>
-[![commit combo](https://commitcombo.com/get?user=Devxb&theme=Cloud-mini)](https://github.com/devxb/commitcombo) <br>
+[![commit combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo) 
+[![commit combo](https://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo) 
+[![commit combo](https://commitcombo.com/get?user=Devxb&theme=Cloud-mini)](https://github.com/devxb/commitcombo) 
 
 <h2></h2>
 
