@@ -1,14 +1,14 @@
 ### Hi there, I'm xb205!👋
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo" align = "center"/></a>
     <br/>
     <br/>
     <br/>
-</div>
+</div> -->
 
-[![commit combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo) 
+<!-- [![commit combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo)  -->
 [![commit combo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo) 
-[![commit combo](http://commitcombo.com/get?user=Devxb&theme=Cloud-mini)](https://github.com/devxb/commitcombo) 
+<!-- [![commit combo](http://commitcombo.com/get?user=Devxb&theme=Cloud-mini)](https://github.com/devxb/commitcombo)  -->
 
 <h2></h2>
 
@@ -24,7 +24,7 @@
 <br>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
-
+[![commit combo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo) 
 <h3></h3>
 <!--
 **dlwnsdud205/dlwnsdud205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
