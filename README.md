@@ -23,7 +23,7 @@
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) -->
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=xb205)](https://solved.ac/profile/xb205) -->
 [![commit combo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo) 
 <h3></h3>
 <!--
