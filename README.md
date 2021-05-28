@@ -1,4 +1,5 @@
 ### Hi there, I'm xb205!👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevxb%2FCommitCombo&count_bg=%23212121&title_bg=%231488CC&icon=&icon_color=%231488CC&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- <div align="center">
     <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo" align = "center"/></a>
     <br/>
