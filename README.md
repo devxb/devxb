@@ -24,7 +24,6 @@
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) -->
 
 [![commit combo](http://commitcombo.com/get?user=Devxb&theme=RoyalBlack-mini)](https://github.com/devxb/commitcombo) [![commit combo](http://commitcombo.com/get?user=Devxb&theme=RoyalBlack-mini-v2)](https://github.com/devxb/commitcombo)
-
 [![commit combo](http://commitcombo.com/get?user=Devxb&theme=RoyalRed-mini)](https://github.com/devxb/commitcombo) [![commit combo](http://commitcombo.com/get?user=Devxb&theme=RoyalRed-mini-v2)](https://github.com/devxb/commitcombo)
 
 
