@@ -26,9 +26,6 @@
 <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini"/>
 </a>
-<a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini" width = "200" height = "auto"/>
-</a>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
 <h3></h3>
