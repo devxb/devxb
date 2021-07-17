@@ -1,37 +1,26 @@
-### Hi there, I'm xb205!👋
 
-<!-- <div align="center">
-    <a href="https://github.com/devxb/CommitCombo"> <img src="http://commitcombo.com/logo" align = "center"/></a>
-    <br/>
-    <br/>
-    <br/>
-</div> -->
+<h2 align = "center"> Hi there, I'm Devxb! 👋 </h2>
 
-<!-- [![commit combo](http://commitcombo.com/get?user=Devxb&theme=Sunset-mini)](https://github.com/devxb/CommitCombo)  -->
-<!-- [![commit combo](http://commitcombo.com/get?user=Devxb&theme=DeepOcean-mini)](https://github.com/devxb/commitcombo)  -->
-<!-- [![commit combo](http://commitcombo.com/get?user=Devxb&theme=Cloud-mini)](https://github.com/devxb/commitcombo)  -->
-
-<h2></h2>
-
-<a href="https://dlwnsdud205.tistory.com" target="_blank">Tistory Blog</a>☚ <mark>click!</mark>🐒
+<div align = "center">
+<a href="https://dlwnsdud205.tistory.com" target="_blank"><mark><b>🐒Blog</b></mark></a> ☚
 
     ☛ Interested in Web Back-End 🐟   
 
     🌱 2021.02.01 ~ 2022.07.31
-    
- <!--<img src = "http://img.shields.io/badge/-black?style=flat&logo=JavaScript"/><img src = "http://img.shields.io/badge/-black?style=flat&logo=HTML5"><img src = "http://img.shields.io/badge/-black?style=flat&logo=CSS3"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java"><img src = "http://img.shields.io/badge/-black?style=flat&logo=Swift">--><img src = "http://img.shields.io/badge/-black?style=flat&logo=Java">
-
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwnsdud205&show_icons=true&theme=blue-green) -->
-
+</div>
+<div align = "center">    
+<img src = "http://img.shields.io/badge/-abc?style=flat&logo=Java">
+ <p> <b>1 Day 1 Commit</b> </p>
 <a href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini"/>
 </a>
-<a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/get?user=Devxb&theme=BasicWhite-mini"/>
+<p> <b>Solved.ac Algorithm tier</b> </p>
+<a href = "https://solved.ac/profile/xb205">
+<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205"/>
 </a>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xb205)](https://solved.ac/profile/xb205)
 <h3></h3>
+</div>
+
 <!--
 **dlwnsdud205/dlwnsdud205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
