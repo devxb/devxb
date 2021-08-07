@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/devxb/readmeplants">
-<img src="http://readmeplants.com/get?user=devxb&planet=eclipse&plant=blossomTree" align=center/>
+<img src="http://readmeplants.com/get?user=devxb&planet=eclipse&plant=blossomTree" align=center style="object-fit : none; width : auto; height : 100%"/>
 </a>
 <p>
 <b>Interested in Web Back-End</b> 🐟 
