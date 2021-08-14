@@ -19,9 +19,9 @@ Contact me
 <br> 
 </p>
 <a href="https://github.com/devxb/readmeplants">
-<img src="http://readmeplants.com/get?name=devxb&planet=eclipse&plant=blossomTree" align=center style="object-fit : none; width : 500px; height : auto"/>
+<img src="https://readmeplants.com/get?name=devxb&planet=eclipse&plant=blossomTree" align=center style="object-fit : none; width : 500px; height : auto"/>
 </a>
 <a href="https://github.com/devxb/readmeplants">
-<img src="http://readmeplants.com/get?name=devxb&planet=sunset&plant=palmTree" align=center style="object-fit : none; width : 500px; height : auto"/>
+<img src="https://readmeplants.com/get?name=devxb&planet=sunset&plant=palmTree" align=center style="object-fit : none; width : 500px; height : auto"/>
 </a>
 </div>
