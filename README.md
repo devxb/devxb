@@ -22,6 +22,6 @@ Contact me
 <img src="https://readmeplants.com/get?name=Devxb&planet=eclipse&plant=blossomTree&v=my" align=center style="object-fit : none; width : 500px; height : auto"/>
 </a>
 <a href="https://github.com/devxb/readmeplants">
-<img src="https://readmeplants.com/get?name=Devxb&planet=sunset&plant=palmTree&v=my" align=center style="object-fit : none; width : 500px; height : auto"/>
+<img src="https://readmeplants.com/get?name=Devxb&planet=blueMoon&plant=palmTree&v=my" align=center style="object-fit : none; width : 500px; height : auto"/>
 </a>
 </div>
