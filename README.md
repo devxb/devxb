@@ -20,6 +20,6 @@ Contact me
 <br> 
 </p>
 <a href="https://github.com/devxb/readmeplants">
-<img src="https://readmeplants.com/get?name=Devxb&planet=eclipse&plant=blossomTree&v=my" align=center style="object-fit : none;"/>
+<img src="https://readmeplants.com/get?name=Devxb&planet=eclipse&plant=blossomTree&background=false" align=center style="object-fit : none;"/>
 </a>
 </div>
