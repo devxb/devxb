@@ -9,6 +9,10 @@ Interested in Web Back-End🐟
 <br> <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br><br>BOJ tier <br> <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xb205">
 <br><br>
+<a href="https://github.com/devxb/commitcombo">
+<img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini" align=center style="object-fit: none;"/>
+</a>
+<br><br>
 Contact me
 <br>
 <p>
@@ -21,9 +25,5 @@ Contact me
 </p>
 <a href="https://github.com/devxb/readmeplants">
 <img src="https://readmeplants.com/get?name=Devxb&planet=sunset&plant=blossomTree&background=none" align=center style="object-fit : none;"/>
-</a>
-<br>
-<a href="https://github.com/devxb/commitcombo">
-<img src="http://commitcombo.com/get?user=Devxb&theme=Rainbow-mini" align=center style="object-fit: none;"/>
 </a>
 </div>
