@@ -21,9 +21,5 @@ Contact me
 <p>
 📫Email : develxb@gmail.com 
 </p>
-<br> 
-</p>
-<a href="https://github.com/devxb/readmeplants">
-<img src="https://readmeplants.com/get?name=Devxb&planet=sunset&plant=blossomTree&background=none" align=center style="object-fit : none;"/>
-</a>
+<br>
 </div>
