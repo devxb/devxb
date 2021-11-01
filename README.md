@@ -10,7 +10,7 @@ Interested in Web Back-End🐟
 <br><br>BOJ tier <br> <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xb205">
 <br><br>
 <a href="https://github.com/devxb/commitcombo">
-<img src="http://commitcombo.com/get?user=Devxb&theme=Emerald&v=1" align=center style="object-fit: none;"/>
+<img src="http://commitcombo.com/theme/norank?user=Devxb&theme=Emerald&v=1" align=center style="object-fit: none;"/>
 </a>
 <br><br>
 Contact me
