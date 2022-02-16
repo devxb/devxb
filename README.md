@@ -1,4 +1,4 @@
-<!-- 
+
 
 <h2 align = "center"> Hi there, I'm Devxb! 👋 </h2>
 
@@ -22,8 +22,4 @@ Contact me
 📫Email : develxb@gmail.com 
 </p>
 <br>
-</div> -->
-
-<h2 align = "left"> Hi there, I'm Devxb! 👋 </h2>
-
-<img src="https://api.gitofolio.com/portfoliocard/svg/23"/>
+</div>
