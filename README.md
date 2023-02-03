@@ -1,4 +1,4 @@
-![fa17e359fa32b40b706a26746e1e5633](https://user-images.githubusercontent.com/62425964/204255681-8ef704cb-b02f-4456-b5a8-a1b5819969f0.gif)
+<!-- ![fa17e359fa32b40b706a26746e1e5633](https://user-images.githubusercontent.com/62425964/204255681-8ef704cb-b02f-4456-b5a8-a1b5819969f0.gif) -->
 
 
 <!-- <div align="center"> -->
