@@ -1,3 +1,3 @@
 <!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xb205"> -->
 
-![Group 2253](https://user-images.githubusercontent.com/62425964/231450725-d3b77e60-da6f-4dba-872f-c3babc48e313.svg)
+![Group 2254](https://user-images.githubusercontent.com/62425964/231450969-a2cb2188-9303-4af4-b94e-cd89df2ef8d2.svg)
