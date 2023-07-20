@@ -1,3 +1,3 @@
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=xb205">
 
-<a href = "https://nalab.me"><img src="https://github.com/devxb/devxb/assets/62425964/56a49b94-f637-4b54-a8fd-b7892d18cebe" width=300/></a>
+<a href = "https://nalab.me"><img src = "https://github.com/devxb/devxb/assets/62425964/9a954247-0a32-4b5e-9b1e-d5f8ecebc8b6" width=250/></a>
