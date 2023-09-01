@@ -1,4 +1,4 @@
-### ✅ Experience
+### Experience
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
 | __*우아한형제들*__ | 2023.07.02 ~ 2023.8.31 | Woowa techcamp 6th - server engineer |
