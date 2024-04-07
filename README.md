@@ -7,7 +7,7 @@
 -->
 
 <a href="https://dlwnsdud205.tistory.com">
-  <img alt="__Blog" src="https://github.com/devxb/devxb/assets/62425964/51426a97-5389-4cc5-90c2-6c5925b2b1c0" width = "607"/>
+  <img alt="__Blog" src="https://github.com/devxb/devxb/assets/62425964/87724a9d-1b4f-4a22-8adb-2ac6e51c7921" width = "607"/>
 </a>
 
 | Organization | Date | Contents |
