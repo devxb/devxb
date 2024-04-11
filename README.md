@@ -6,8 +6,10 @@
 </div>
 -->
 <a href="https://dlwnsdud205.tistory.com">
-  <img alt="__Blog" src="https://github.com/devxb/devxb/assets/62425964/87724a9d-1b4f-4a22-8adb-2ac6e51c7921" width = "200" align="bottom">
+  <img alt="__Blog" src="https://github.com/devxb/devxb/assets/62425964/87724a9d-1b4f-4a22-8adb-2ac6e51c7921" width = "200" align="top">
 </a>
+
+<br>
 
 <a href="https://github.com/devxb/gitanimals/">
   <img alt="__animals" src="https://render.gitanimals.org/farms/devxb" width = "400"/>
