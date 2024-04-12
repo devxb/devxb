@@ -24,5 +24,6 @@
 | __*Depromeet 13th*__ | 2023.04.08 ~ 2023.07.22 | Nalab - server engineer |
 
 <a href="https://github.com/devxb/gitanimals/">
-  <img src="https://render.gitanimals.org/farms/devxb?mode=line"/>
+  <img src="https://github.com/devxb/devxb/assets/62425964/f141dad0-b875-4a7f-841b-31cb6416f1d2" height="60" width="1000"/>
 </a>
+
