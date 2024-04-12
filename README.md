@@ -17,13 +17,13 @@
 </a>
 -->
 
+<a href="https://github.com/devxb/gitanimals/">
+  <img src="https://render.gitanimals.org/farms/devxb?mode=line" height="60" width="1000"/>
+</a>
+
 | Organization | Date | Contents |
 | :----------: | :--: | :------: |
 | __*Depromeet 14th*__ | 2023.11.04 ~ 2023.03. | teum-teum server |
 | __*우아한테크캠프*__ | 2023.07.02 ~ 2023.08.31 | Woowa techcamp 6th - server |
 | __*Depromeet 13th*__ | 2023.04.08 ~ 2023.07.22 | Nalab - server engineer |
-
-<a href="https://github.com/devxb/gitanimals/">
-  <img src="https://github.com/devxb/devxb/assets/62425964/f141dad0-b875-4a7f-841b-31cb6416f1d2" height="60" width="1000"/>
-</a>
 
