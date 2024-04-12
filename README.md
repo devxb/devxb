@@ -12,7 +12,7 @@
 -->
 
 <a href="https://github.com/devxb/gitanimals/">
-  <img src="https://render.gitanimals.org/farms/devxb?mode=line" height="60" width="600" align=right/>
+  <img src="https://render.gitanimals.org/lines/devxb" height="60" width="600" align=right/>
 </a>
 
 | Organization | Date | Contents |
