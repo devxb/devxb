@@ -12,7 +12,7 @@
 -->
 
 <a href="https://github.com/devxb/gitanimals/">
-  <img src="https://render.gitanimals.org/lines/devxb?pet-id=23" height="150" width="600" align=right/>
+  <img src="https://render.gitanimals.org/lines/devxb?pet-id=9" height="120" width="600" align=right/>
 </a>
 
 | Organization | Date | Contents |
