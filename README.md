@@ -11,7 +11,16 @@
 </a>
 -->
 
-<a href="https://github.com/devxb/gitanimals/"><img src="https://render.gitanimals.org/lines/devxb?pet-id=589961688038175360" height="150" width="100%" align=right/></a>
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+    src="https://render.gitanimals.org/lines/devxb?pet-id=22"
+    width="100%"
+    height="120"
+  />
+</a>
+  
 
 <!--
 | Organization | Date | Contents |
