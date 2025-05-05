@@ -15,14 +15,10 @@
 
 <div align="center">
 <!--<a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/devxb?pet-id=23" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=22" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=1" width="30%" height="100"/>-->
-  
+    <img src="https://render.gitanimals.org/lines/devxb?pet-id=23" width="100%" height="100"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=22" width="30%" height="100"/><img src="https://render.gitanimals.org/lines/devxb?pet-id=1" width="30%" height="100"/>-->
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=devxb&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/devxb?pet-id=651416304269655603"
-    width="100%"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/devxb?pet-id=23" width="100%" height="100"/>
 </a>
   
 </div>
